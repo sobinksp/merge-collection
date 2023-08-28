@@ -13,7 +13,7 @@ function merge(collection_1: number[], collection_2: number[]): number[] {
     }
   }
 
-  // remaing elements
+  // remaining
   while (i < collection_1.length) {
     mergedCollection.push(collection_1[i]);
     i++;
